@@ -28,5 +28,5 @@ NSFW  违规中文声音数据集
 - ansfw.scp.txt 对应自动语音识别文本
 - samples/{label}/**.wav 样例，每类别100条
 
-> ![cc](https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/CC-BY_icon.svg/150px-CC-BY_icon.svg.png) 数据集遵守CC-BY协议。作者 `chairmanwho的小背心` 放弃作品的版权和其他相关权利。
+> 本数据集遵守 CC-BY 4.0 协议。作者 `chairmanwho的小背心` 放弃作品的版权和其他相关权利。
 
