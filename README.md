@@ -28,5 +28,7 @@ NSFW  违规中文声音数据集
 - ansfw.scp.txt 对应自动语音识别文本
 - samples/{label}/**.wav 样例，每类别100条
 
+下载数据在[这里](https://aistudio.baidu.com/aistudio/datasetdetail/107582)
+
 > 本数据集遵守 CC-BY 4.0 协议。作者 `火工道人` 放弃作品的版权和其他相关权利。
 
